@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Henrique S. Stolle 👋
 - 🔭 Estou Procurando Meu Primeiro Emprego na Área de Desenvolvimento de SIsitemas.
 - 🌱 Estou Estudando HTML, CSS, JS, PHP e SQL.
-<div style="display: flex; justify-content: center; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center; ">
   <a href="https://github.com/hernque0927">
-    <img height="300em" src="https://lh3.googleusercontent.com/a/ACg8ocJqJ1XiznxbDbixi7jOy8fNZkBx8BWWSekYEALF7tWaxHxmSo1A=s288-c-no">
-          
+    <img height="300em" src="https://cdn.dribbble.com/users/267247/screenshots/1746086/liberio.gif">
+    
 </div>
 
           
