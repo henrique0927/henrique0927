@@ -5,10 +5,10 @@
 - 🌱 Estou Estudando HTML, CSS, JS, PHP e SQL.
 <div style="display: flex; justify-content: center; align-items: center; ">
   <a href="https://github.com/hernque0927">
-  <img height="90em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GMeLkqGuxx7DvwjooGbvZPYu9zJIvJHEoNpPoyjDlg&s">
-  <img height="90em" src="https://github.com/henrique0927/henrique0927/assets/160621994/1c89d150-17fb-495d-82a5-499745a13329">
+  <img height="90em" src="https://github.com/henrique0927/henrique0927/assets/160621994/380f52d7-b97e-41d6-b137-0ba55dacffd3">
+  <img height="90em" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png">
   <img height="90em" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
-    
+  <img height="90em" src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png"> 
 </div>
 
           
