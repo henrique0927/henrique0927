@@ -3,6 +3,7 @@
 
 - 🔭 Estou Procurando Meu Primeiro Emprego na Área de Desenvolvimento de SIsitemas.
 - 🌱 Estou Estudando HTML, CSS, JS, PHP e SQL.
+- 📫 Esta é minha conta usada para o Técnico em Desenvolvimento de Sistemas no SENAI.
 <div style="display: flex; justify-content: center; align-items: center; ">
   <a href="https://github.com/hernque0927">
   <img height="90em" src="https://github.com/henrique0927/henrique0927/assets/160621994/380f52d7-b97e-41d6-b137-0ba55dacffd3">
