@@ -1,4 +1,4 @@
-## Olá! Eu sou o Henrique S. Stolle 👋 
+## I'm Henrique Silva Stolle
 <!-- <img height="450em" src="https://afcb3dd970a3f0576827-af285b1eb7ee6b663e4897a25a039f30.ssl.cf1.rackcdn.com/GaleriaImagem/172108/foto-convite-colegio-sesi-2024_mg2801-n.jpg"> -->
 <div style="display: flex; justify-content: center; align-items: center; ">
   <a href="https://github.com/hernque0927">
